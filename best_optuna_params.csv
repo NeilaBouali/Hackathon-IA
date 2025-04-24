@@ -1,0 +1,2 @@
+val_accuracy,filters,dense_units,dropout
+0.9336939056714376,32,128,0.31857588904441486
