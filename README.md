@@ -117,9 +117,10 @@ pip install -r requirements.txt
 ---
 
 ## 👩‍💻 Team
-- Project Lead: Neila Bouali
-- Hackathon Participants: [Add names here if needed]
-
+- Data Engineer: Natali Ilyan - Ferdaous Bechraoui - Neila Bouali
+- Data Scientis: Natali Ilyan - Ferdaous Bechraoui - Neila Bouali
+- Deep Learning Engineer: Natali Ilyan - Ferdaous Bechraoui - Neila Bouali
+- Visualization Expert: Natali Ilyan - Ferdaous Bechraoui - Neila Bouali
 ---
 
 ## 📁 Project Structure
@@ -143,6 +144,4 @@ pip install -r requirements.txt
 
 ---
 
-## 📧 Contact
-📮 neila.bouali@gmail.com
 
