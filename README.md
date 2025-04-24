@@ -117,10 +117,10 @@ pip install -r requirements.txt
 ---
 
 ## 👩‍💻 Team
-- Data Engineer: Natali Ilyan - Ferdaous Bechraoui - Neila Bouali
-- Data Scientis: Natali Ilyan - Ferdaous Bechraoui - Neila Bouali
-- Deep Learning Engineer: Natali Ilyan - Ferdaous Bechraoui - Neila Bouali
-- Visualization Expert: Natali Ilyan - Ferdaous Bechraoui - Neila Bouali
+- Data Engineer: Natali Ilyan
+- Data Scientist: Ferdaous Bechraoui
+- Deep Learning Engineer: Neila Bouali - Natali Ilyan 
+- Visualization Expert: Neila Bouali
 ---
 
 ## 📁 Project Structure
